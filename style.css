@@ -1,0 +1,35 @@
+p{
+    text-align: center;
+    color: blueviolet;
+    background-color: bisque;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+    background-color: beige;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.subtitulo{
+    text-align: left;
+}
+
+.w-800{
+    width: 30vw;
+}
+
+#parrafoespecial{
+    color: rgb(208, 255, 0);
+}
+
+#rectangulo{
+    background-color: rgb(8, 1, 1);
+    height: 100px;
+    width: 100px;
+    
+}
